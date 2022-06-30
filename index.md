@@ -5,7 +5,7 @@ Have fun!
 
 
 
-[Link](https://github.com/Adirshelly/Data--Science-project/blob/main/Data%20science%20flights%20prices.ipynb)
+[Link to out project notebook](https://github.com/Adirshelly/Data--Science-project/blob/main/Data%20science%20flights%20prices.ipynb)
 ```
 
 
